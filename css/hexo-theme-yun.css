@@ -198,6 +198,7 @@ body::before {
   animation-name: bgFadeIn;
   animation-duration: 2s;
   opacity: 1;
+  filter: blur(30px);
 }
 @-moz-keyframes bgFadeIn {
   from {
@@ -1767,7 +1768,7 @@ input {
   background-image: url("https://z3.ax1x.com/2021/07/19/WJIPKI.png");
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: bottom 1rem center;
+  background-position: bottom 0rem center;
   text-align: center;
   z-index: 10;
   transition-property: all;
