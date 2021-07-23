@@ -1772,7 +1772,7 @@ input {
   background-image: url("https://i0.hdslb.com/bfs/album/cd01ad15bd763df9f9304867e5d04d9c56707566.png");
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: bottom 3rem center;
+  background-position: bottom 0px center;
   text-align: center;
   z-index: 10;
   transition-property: all;
